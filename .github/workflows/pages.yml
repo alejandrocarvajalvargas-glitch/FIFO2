@@ -1,5 +1,6 @@
 name: Publicar la app instalable
 
+# Publica la PWA de FIFO2 en GitHub Pages.
 # Publica el contenido de pwa/ en GitHub Pages.
 # URL resultante: https://<usuario>.github.io/<repositorio>/
 # (o https://<usuario>.github.io/ si el repositorio se llama <usuario>.github.io)
