@@ -23,7 +23,7 @@ const CFG = {
   HOJA_BITACORA: 'BITACORA_REPORTES',
   // ID del libro. Solo se usa si el script NO está vinculado al libro (contenedor).
   // Si está vinculado, se usa siempre el libro activo.
-  LIBRO_ID: '1n5Y1R0ta8qW8ciAki1ZQiCsYLM6_K2w8_C6jjhfc91s',
+  LIBRO_ID: '1Sy7B1k1wkud4byeEgWNU9er4fmHgqIHW9vxQdAIusus',
   PLANTILLA_HTML: 'ReporteHTML',
   WEBAPP: 'AppMovil',                // archivo HTML de la interfaz móvil (Modalidad B)
   APP_ID: '',                        // opcional: id de la app AppSheet para deep links
